@@ -7,6 +7,9 @@
      font-size: 16px;
      font-weight: 500;
 }
+.menu-bg a:hover{
+    color: #FFFFFF;
+}
 .menu-bg .but{
     padding: 16px;
 }
@@ -19,4 +22,8 @@
      padding: 16px 48px;
      background: transparent;
      border: 2px solid #F4F6FC33;
+}
+.menu-bg .but button:hover{
+    background: #FCD980;
+    color: black;
 }
