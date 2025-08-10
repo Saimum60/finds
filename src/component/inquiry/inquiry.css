@@ -1,0 +1,104 @@
+.inq{
+    padding: 128px 0px 128px 0px;
+}
+.inq .ios{
+    position: relative;
+}
+.inq .ios img{
+    width: 640;
+}
+.inq .pi{
+    background: #1C1E5380;
+    position: absolute;
+    width: 103%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    transform: scaleX(0);
+    transition: .5s linear;
+    transform-origin: left;
+
+}
+.inq .ios:hover .pi{
+    transform: scaleX(1);
+}
+.inq .pi h1{
+    color:#FFFFFF;
+     font-family: "Poppins", sans-serif;
+     font-size: 54px;
+     font-weight: 600;
+     line-height: 74px;
+     width: 618px;
+    padding: 96px 96px 0px 96px;
+}
+.inq .pi p{
+    color:#FFFFFF;
+     font-family: "Poppins", sans-serif;
+     font-size: 16px;
+     font-weight: 500;
+     line-height: 28px;
+     width: 618px;
+     padding-top: 24px;
+     padding-left: 96px;
+}
+.inq .rs{
+    position: relative;
+    
+}
+.inq .ha{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.inq .ha h5{
+    color:#FFFFFF;
+     font-family: "Poppins", sans-serif;
+     font-size: 32px;
+     font-weight: 500;
+     line-height: 48px;
+     padding: 96px 96px 0px 96px;
+    
+}
+.inq .ha p{
+    color:#FFFFFF;
+     font-family: "Poppins", sans-serif;
+     font-size: 16px;
+     font-weight: 500;
+     line-height: 28px;
+     padding: 16px 96px 16px 96px;
+}
+.inq .input input{
+    background: transparent;
+    border: 1.5px solid hsla(0, 0%, 100%, 0.504);
+    flex-direction: row;
+    display: block;
+    padding-right: 160px;
+    padding-bottom:30px;
+    color: #FFFFFF;
+   
+}
+.inq .input{
+     padding: 0px 96px 10px 96px;
+}
+
+.inq .input button{
+    margin-top: 39px;
+    margin-bottom: 28px;
+    padding: 16px 100px ;
+    background:#FCD980;
+    color:#1B1C2B;
+     font-family: "Poppins", sans-serif;
+     font-size: 18px;
+     font-weight: 600;
+     line-height: 32px;
+     border-radius: 41px;
+
+}
+.inq .input a{
+    padding-left:  60px;
+    font-family: "Poppins", sans-serif;
+    color: #FFFFFF;
+     font-size: 18px;
+     font-weight: 500;
+     line-height: 32px;
+}

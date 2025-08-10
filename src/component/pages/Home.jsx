@@ -5,6 +5,8 @@ import Work from '../work/Work.jsx'
 import Project from '../project/Project.jsx'
 import Features from '../features/Features.jsx'
 import About from '../about/About.jsx'
+import Frequently from '../frequently/Frequently.jsx'
+import Inquiry from '../inquiry/Inquiry.jsx'
 
 
 
@@ -17,6 +19,8 @@ const Home = () => {
     <Project/>
     <Features/>
     <About/>
+    <Frequently/>
+    <Inquiry/>
     
     </>
   )
