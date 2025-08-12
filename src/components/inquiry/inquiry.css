@@ -1,0 +1,126 @@
+.to {
+    padding: 128px;
+}
+
+.ew {
+    position: relative;
+}
+
+.ew .bbc {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: rgba(28, 30, 83, 0.502);
+    height: 100%;
+    width: 103%;
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: .5s;
+
+}
+
+.ew:hover .bbc {
+    transform: scaleX(1);
+    transform-origin: left;
+}
+
+.ew .bbc h1 {
+    color: #fff;
+    font-size: 54px;
+    font-weight: 600;
+    line-height: 74px;
+    font-family: "Poppins", sans-serif;
+    padding: 96px 96px 24px 96px;
+}
+
+.ew .bbc p {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    font-family: "Poppins", sans-serif;
+    padding-left: 96px;
+    padding-right: 96px;
+}
+
+.we {
+    position: relative;
+    
+}
+
+.we .lg {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.we .lg h5 {
+    color: #ffff;
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 48px;
+    font-family: "Poppins", sans-serif;
+    padding: 96px 96px 16px 96px;
+
+
+}
+
+.we .lg p {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    font-family: "Poppins", sans-serif;
+    padding: 0px 96px 40px 96px;
+
+}
+
+.we .lg .zx {
+    padding: 0px 96px 0px 96px;
+    gap: 10px;
+}
+
+.we .lg .zx input {
+    color: #ffff;
+    padding: 18px 200px 18px 32px;
+    background: transparent;
+    border: 1px solid #FFFFFF0D;
+    border-radius: 8px;
+
+}
+
+.we .lg .cs {
+    padding-left: 96px;
+    padding-top: 40px;
+    display: block;
+}
+
+.we .lg .cs button {
+    color: #1B1C2B;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 32px;
+    font-family: "Poppins", sans-serif;
+    padding: 16px 150px;
+    border-radius: 41px;
+    border: 1px solid transparent;
+    background: #FCD980;
+    transition: .5s;
+
+}
+
+.we .lg .cs button:hover {
+    color: #fff;
+    background: transparent;
+    border: 1px solid#fff;
+}
+
+.we .lg .cs a {
+    color: #F4F6FC;
+    text-decoration: none;
+    padding-left: 100px;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 32px;
+    font-family: "Poppins", sans-serif;
+}

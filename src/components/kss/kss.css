@@ -1,0 +1,26 @@
+.jq{
+    padding: 32px;
+}
+
+ul li{ 
+    list-style: none;
+    color: black;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    font-family: "Poppins", sans-serif;
+    display: inline;
+    padding: 15px;
+}
+.pt{
+    display: flex;
+    
+}
+.pt h4{
+    
+    color: black;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    font-family: "Poppins", sans-serif;
+}

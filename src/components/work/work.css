@@ -1,0 +1,43 @@
+.work{
+    padding: 128px;
+    background: #F4F6FC;
+}
+.text h2{
+    color: #282938;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 64px;
+    font-family: "Poppins", sans-serif;
+}
+.text p{
+    color: rgba(40, 41, 56, 0.714);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    font-family: "Poppins", sans-serif;
+    padding: 16px 0px;
+    width: 405px;
+}
+.text a{
+    color: #2405F2;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 32px;
+    font-family: "Poppins", sans-serif;
+}
+.bg{
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 48px;
+    font-family: "Poppins", sans-serif;
+    padding: 16px 0px 8px;
+}
+.mg{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    font-family: "Poppins", sans-serif;
+    width: 303px;
+    color: rgba(40, 41, 56, 0.711);
+}

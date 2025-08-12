@@ -1,0 +1,48 @@
+.banner {
+    padding: 126px;
+    background: #1C1E53;
+}
+
+.banner .bg-ban h1 {
+    color: #ffff;
+    font-size: 54px;
+    font-weight: 600;
+    line-height: 74px;
+    font-family: "Poppins", sans-serif;
+    width: 582px;
+}
+
+.banner .bg-ban p {
+    color: rgba(255, 255, 255, 0.713);
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    font-family: "Poppins", sans-serif;
+    width: 562px;
+}
+
+.banner .bg-ban button {
+    color: black;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 32px;
+    font-family: "Poppins", sans-serif;
+    padding: 16px 56px;
+    background: #FCD980;
+    border-radius: 41px;
+    transition: .5s;
+}
+.banner .bg-ban button:hover{
+    background: #fff;
+    
+}
+
+.banner .bg-ban a {
+    color: #ffff;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    font-family: "Poppins", sans-serif;
+    padding-left: 40px;
+    text-decoration: none;
+}
