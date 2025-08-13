@@ -26,14 +26,18 @@ const Project = () => {
                 </div>
                 </Col>
                 <Col lg={4}>
-                <div className="img2">
+                <div className="wa">
+                    <div className="img2">
                     <img src={Card2} alt="" />
                     <div className="fd">
                         <h4>Unisaas Website Design</h4>
                         <a href="#">View portfolio <FaArrowRightLong/></a>
                     </div>
                 </div>
-                <img className='img3' src={Card3} alt="" />
+                <div className="fs">
+                    <img  src={Card3} alt="" />
+                </div>
+                </div>
                 </Col>
             </Row>
         </Container>
