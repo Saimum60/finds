@@ -17,7 +17,7 @@ const Manu = () => {
             <Link to="/featurespg">Features</Link>
             <Link to="/pricing" >Pricing</Link>
             <Link >FAQ</Link>
-            <Link >Blog</Link>
+            <Link to="/blogus" >Blog</Link>
            
           </Nav>
           <button className='buton'>Contact us</button>

@@ -4,7 +4,7 @@ import { Col, Container, Row } from 'react-bootstrap'
 
 const Pricing = () => {
   return (
-    <section>
+    <section className='ya'>
       <Container>
         <div className="tss">
           <h2>Our Pricing Plans</h2>

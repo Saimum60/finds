@@ -1,0 +1,23 @@
+.ya{
+    padding: 128px;
+}
+.ya .tss{
+    padding-left: 400px;
+}
+.ya .tss h2{
+    width: 414px;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 64px;
+    font-family: "Poppins", sans-serif;
+   
+}
+.ya .tss p{
+    color: rgba(0, 0, 0, 0.701);
+    width: 562px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    font-family: "Poppins", sans-serif;
+    
+}

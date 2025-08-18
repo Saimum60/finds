@@ -1,0 +1,42 @@
+.dmp{
+    padding: 128px;
+}
+.dmp .jp h2 {
+    text-align: center;
+    padding-bottom: 48px;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 64px;
+    font-family: "Poppins", sans-serif;
+}
+.dmp .bl h5 {
+    
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    font-family: "Poppins", sans-serif;
+    width: 404px;
+}
+.dmp .bl h6{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    font-family: "Poppins", sans-serif;
+    padding: 32px 0px 16px 0px;
+
+}
+.dmp .bl p {
+    color: rgba(0, 0, 0, 0.72);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    font-family: "Poppins", sans-serif;
+    width: 404px;
+    padding: 16px 0px 24px 0px;
+}
+ .bl a{
+    color: #000;
+ }
+ .bl .lp{
+    padding-bottom: 64px;
+ }

@@ -5,6 +5,8 @@ import { createBrowserRouter, createRoutesFromElements, Route, RouterProvider } 
 import RootLayout from './components/RootLayout'
 import FeaturesPg from './pages/FeaturesPg'
 import Pricingbd from './pages/Pricingbd'
+import Blogbd from './pages/Blogbd'
+
 
 let router= createBrowserRouter(createRoutesFromElements(
   <Route element={<RootLayout/>}>
@@ -12,6 +14,10 @@ let router= createBrowserRouter(createRoutesFromElements(
     <Route path="/aboutus" element={ <Aboutusbd/>}></Route>
     <Route path="/featurespg" element={ <FeaturesPg/>}></Route>
     <Route path="/pricing" element={ <Pricingbd/>}></Route>
+    <Route path="/blogus" element={ <Blogbd/>}></Route>
+    
+    
+    
   </Route>
 ))
 
