@@ -1,0 +1,38 @@
+.wp{
+    padding: 128px;
+}
+.wp .tes{
+    padding-left: 350px;
+}
+
+.wp .tes h2{
+    text-align: center;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 64px;
+    font-family: "Poppins", sans-serif;
+    width: 630px;
+    padding-bottom: 48px;
+   
+}
+.wp .sq{
+    background: #F4F6FC;
+}
+.wp .sq h6{
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    font-family: "Poppins", sans-serif;
+    padding-left: 48px;
+}
+.wp .sq p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    font-family: "Poppins", sans-serif;
+    padding: 12px 33px 48px 48px;
+}
+.wp .sq img{
+    
+    padding: 50px 0px 26px 48px;
+}

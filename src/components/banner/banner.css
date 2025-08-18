@@ -31,9 +31,12 @@
     background: #FCD980;
     border-radius: 41px;
     transition: .5s;
+    border: 1px solid #FCD980 
 }
 .banner .bg-ban button:hover{
-    background: #fff;
+    background: transparent;
+    color: #ffff;
+    border: 1px solid #ffff 
     
 }
 

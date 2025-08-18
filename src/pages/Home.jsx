@@ -1,5 +1,4 @@
 import React from 'react'
-import Manu from '../components/manu/Manu'
 import Banner from '../components/banner/Banner'
 import Work from '../components/work/Work'
 import Project from '../components/project/Project'
@@ -15,7 +14,6 @@ import Kss from '../components/kss/Kss'
 const Home = () => {
   return (
     <div>
-        <Manu/>
         <Banner/>
         <Work/>
         <Project/>

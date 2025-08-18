@@ -2,6 +2,7 @@ import React from 'react'
 import "./manu.css"
 import { Container, Nav, Navbar } from 'react-bootstrap'
 import Logo from "../../assets/logo.png"
+import { Link } from 'react-router-dom'
 
 const Manu = () => {
   return (
@@ -11,12 +12,13 @@ const Manu = () => {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ms-auto">
-            <Nav.Link href="#home">Home</Nav.Link>
-            <Nav.Link href="#about us">About us</Nav.Link>
-            <Nav.Link href="#features">Features</Nav.Link>
-            <Nav.Link href="#pricing">Pricing</Nav.Link>
-            <Nav.Link href="#fAQ">FAQ</Nav.Link>
-            <Nav.Link href="#blog">Blog</Nav.Link>
+            <Link to="/">Home</Link>
+            <Link to="/aboutus">About us</Link>
+            <Link to="/featurespg">Features</Link>
+            <Link to="/pricing" >Pricing</Link>
+            <Link >FAQ</Link>
+            <Link >Blog</Link>
+           
           </Nav>
           <button className='buton'>Contact us</button>
         </Navbar.Collapse>

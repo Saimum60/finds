@@ -1,0 +1,40 @@
+.feat{
+    padding: 128px;
+    background: #1C1E53;
+}
+.feat .vc h1{
+    color: #ffff;
+    font-size: 54px;
+    font-weight: 600;
+    line-height: 74px;
+    font-family: "Poppins", sans-serif;
+    width: 468px;
+}
+.feat .vc p{
+    color: rgba(255, 255, 255, 0.702);
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    font-family: "Poppins", sans-serif;
+    width: 468px;
+    padding: 32px 0px;
+}
+.feat .vc button{
+    color: #282938;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 32px;
+    font-family: "Poppins", sans-serif;
+    border: 1px solid #FCD980;
+    padding: 16px 48px;
+    border-radius: 41px;
+    background: #FCD980;
+    transition: .5s;
+    
+}
+.feat .vc button:hover{
+    background: transparent;
+    color: #ffff !important;
+    border: 1px solid #ffff;
+}
+

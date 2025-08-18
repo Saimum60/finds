@@ -1,0 +1,31 @@
+.ass{
+    padding: 128px;
+}
+.ass .kn h6{
+    
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+    font-family: "Poppins", sans-serif;
+    
+}
+.ass .kn h1{
+    padding: 8px 0px 31px;
+    font-size: 54px;
+    font-weight: 600;
+    line-height: 74px;
+    font-family: "Poppins", sans-serif;
+    
+}
+.ass .kn p{
+    color: rgba(40, 41, 56, 0.7);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    font-family: "Poppins", sans-serif;
+    width: 484px;
+    
+}
+.ass .rs{
+    padding-left: 85px;
+}

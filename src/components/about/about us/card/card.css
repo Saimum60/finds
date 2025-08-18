@@ -1,0 +1,57 @@
+.card{
+    padding: 128px;
+    background: rgba(244, 246, 252, 0.71) !important;
+}
+.hp{
+    background: #FFFFFF;
+}
+.hp img{
+    padding: 48px 64px 30px;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    font-family: "Poppins", sans-serif;
+    
+    
+}
+.hp h6{
+    text-align: center;
+}
+.hp p{
+    text-align: center;
+    padding: 2px 0px 32px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    font-family: "Poppins", sans-serif;
+   
+}
+.pre{
+    position: relative;
+}
+ .pre .wes{
+    position: absolute;
+    height: 167px;
+    width: 167px;
+    top: 20%;
+    left: 21%;
+    background: linear-gradient( transparent, #5239FA);
+    border-radius: 50%;
+    transform: scaleY(0);
+    transform-origin: bottom;
+    transition: .3s;
+ }
+.hp:hover .wes{
+    
+    transform: scaleY(1);
+    transform-origin: bottom;
+    
+}
+.wes .aa {
+   color: #ffff;
+   position: absolute;
+   top:120px;
+   left: 60px;
+  
+   
+}
