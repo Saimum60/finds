@@ -2,5 +2,40 @@
     padding-top: 128px;
 }
 .lj .lkj{
-    text-align: center;
+   text-align: center;
+}
+.lj .lkj h2{
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 64px;
+    font-family: "Poppins", sans-serif;
+    padding-left: 200px;
+   padding-right: 184px;
+}
+.lj .lkj .pl{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    font-family: "Poppins", sans-serif;
+    padding: 16px 0px 32px;
+    
+   
+}
+.lj .lkj .pa{
+    color: rgba(0, 0, 0, 0.709);
+    line-height: 28px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    font-family: "Poppins", sans-serif;
+    padding: 48px 200px 16px 255px;
+   
+}
+.lj .lkj a{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    font-family: "Poppins", sans-serif;
+    padding-left: 50px;
+   
 }

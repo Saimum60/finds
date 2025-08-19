@@ -9,7 +9,7 @@ const Inquiry = () => {
     return (
         <section className='to'>
             <Container>
-                <Row>
+                <Row className='gx-0'>
                     <Col lg={6}>
                         <div className='ew'>
                             <img src={Bg} alt="" />

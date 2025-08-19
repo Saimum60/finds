@@ -9,6 +9,7 @@ import Blog5 from "../../../assets/blog5.png"
 import Blog6 from "../../../assets/blog6.png"
 import Blogusre from './blogusre'
 
+
 const Blogus = () => {
   return (
     <section className='dmp'>

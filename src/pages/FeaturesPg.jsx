@@ -6,6 +6,7 @@ import Allsec1 from '../components/features/featurespg/allsec/Allsec1'
 import Src2 from '../components/features/featurespg/allsec/Src2'
 import Sec3 from '../components/features/featurespg/allsec/Sec3'
 import Sec4 from '../components/features/featurespg/allsec/Sec4'
+import Faq from '../components/faq/Faq'
 
 
 
@@ -20,6 +21,7 @@ const FeaturesPg = () => {
     <Src2/>
     <Sec3/>
     <Sec4/>
+    <Faq/>
     
     </>
    

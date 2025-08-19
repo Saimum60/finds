@@ -15,7 +15,10 @@
     color: #ffff ;
      
 }
-.buton{
+.adf{
+    padding: 16px 0px;
+}
+.buton {
     background: transparent;
     padding: 16px 48px;
     color: #ffff;
@@ -26,7 +29,7 @@
     font-family: "Poppins", sans-serif;
     transition: .5s;
 }
-.buton:hover{
+.buton:hover {
     background: #FCD980;
     color: black;
     border: 1px solid #FCD980;

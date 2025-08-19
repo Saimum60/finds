@@ -4,6 +4,7 @@
 
 .ew {
     position: relative;
+    
 }
 
 .ew .bbc {
@@ -46,6 +47,7 @@
 .we {
     position: relative;
     
+    
 }
 
 .we .lg {
@@ -77,7 +79,9 @@
 
 .we .lg .zx {
     padding: 0px 96px 0px 96px;
-    gap: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
 }
 
 .we .lg .zx input {

@@ -16,11 +16,13 @@ const Manu = () => {
             <Link to="/aboutus">About us</Link>
             <Link to="/featurespg">Features</Link>
             <Link to="/pricing" >Pricing</Link>
-            <Link >FAQ</Link>
+            <Link to="/faqus">FAQ</Link>
             <Link to="/blogus" >Blog</Link>
            
           </Nav>
-          <button className='buton'>Contact us</button>
+          <div className="adf">
+            <button className='buton'><Link className='rty' to="contact">Contact us</Link></button>
+          </div>
         </Navbar.Collapse>
       </Container>
     </Navbar>

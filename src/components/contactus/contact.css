@@ -1,0 +1,61 @@
+.kla{
+    margin: 128px;
+}
+.kl .kio h2{
+   font-size: 68px;
+    font-weight: 600;
+    line-height: 64px;
+    font-family: "Poppins", sans-serif;
+    text-align: center;
+    
+}
+.kl .kio p{
+   font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    font-family: "Poppins", sans-serif;
+    text-align: center;
+    padding: 16px 0px 64px;
+    
+}
+.inpu{
+    padding: 56px 76px 69px 77px;
+    background: #F4F6FC;
+}
+.inpu form{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 32px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+    font-family: "Poppins", sans-serif;
+    
+    
+}
+
+.inpu input{
+    padding: 18px 166px 18px 32px;
+    border: 1px solid #0000001F;
+    color: black;
+    display: flex;
+    flex-direction: row;
+    border-radius: 8px;
+    
+}
+.inpu .butt{
+    padding-top: 32px;
+
+}
+.inpu .butt button{
+    color: #ffff;
+    background: #000;
+    padding: 16px 64px;
+    border-radius: 41px;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 32px;
+    font-family: "Poppins", sans-serif;
+    
+
+}

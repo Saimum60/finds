@@ -1,0 +1,52 @@
+.us{
+    margin: 128px;
+}
+
+.us .pao h6{
+     font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    font-family: "Poppins", sans-serif;
+    padding-bottom: 12px;
+    color: rgba(0, 0, 0, 0.802);
+    
+}
+.us .pao h2{
+     font-size: 48px;
+    font-weight: 600;
+    line-height: 64px;
+    font-family: "Poppins", sans-serif;
+    width: 646px;
+    
+}
+.us .pao p{
+     font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    font-family: "Poppins", sans-serif;
+    width: 817px;
+    padding: 16px 0px 48px;
+    
+}
+.imp{
+    background: linear-gradient(#F4EDE1,#98B1C6);
+    text-align: center;
+   
+}
+.imp img{
+    padding: 60px 88px;
+    
+}
+.lio{
+    margin: 100px;
+}
+.kpl{
+    background: linear-gradient(#F4EDE1,#98B1C6);
+    text-align: center;
+}
+.kpl img{
+    padding: 42px 56px;
+}
+ul{
+    list-style: circle;
+}

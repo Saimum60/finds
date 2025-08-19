@@ -23,15 +23,16 @@
     color: #282938;
     width: 272px;
 }
-.bs img{
+.bs .te{
     padding-bottom: 32px;
     position: relative;
 }
-.bs h5{
-    display: inline;
+.ler{
+    position: absolute;
+    top: 0;
+    left: 40px;
+}
+.bs .ler p{
     color: #2405F2;
-    padding-left: 24px;
-    
-    
-  
+
 }
