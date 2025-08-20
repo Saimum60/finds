@@ -7,8 +7,6 @@ import About from '../components/about/About'
 import Faq from '../components/faq/Faq'
 import Blog from '../components/blog/Blog'
 import Inquiry from '../components/inquiry/Inquiry'
-import Footer from '../components/footer/Footer'
-import Kss from '../components/kss/Kss'
 
 
 const Home = () => {
@@ -22,8 +20,6 @@ const Home = () => {
         <Faq/>
         <Inquiry/>
         <Blog/>
-        <Footer/>
-        <Kss/>
     </div>
   )
 }

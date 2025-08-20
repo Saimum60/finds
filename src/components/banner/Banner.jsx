@@ -18,7 +18,7 @@ const Banner = () => {
                 </div>
                 </Col>
                 <Col lg={6}>
-                <img src={Bang} alt="" /></Col>
+                <img className='uv' src={Bang} alt="" /></Col>
             </Row>
         </Container>
     </section>

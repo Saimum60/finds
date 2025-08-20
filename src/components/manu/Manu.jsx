@@ -3,15 +3,19 @@ import "./manu.css"
 import { Container, Nav, Navbar } from 'react-bootstrap'
 import Logo from "../../assets/logo.png"
 import { Link } from 'react-router-dom'
+import { FaBars } from "react-icons/fa6";
+
 
 const Manu = () => {
   return (
     <Navbar expand="lg" className="nv">
       <Container>
         <Navbar.Brand href="#home"><img src={Logo} alt="" /></Navbar.Brand>
-        <Navbar.Toggle aria-controls="basic-navbar-nav" />
+        <div className="jjp">
+          <Navbar.Toggle  aria-controls="basic-navbar-nav"  />
+        </div>
         <Navbar.Collapse id="basic-navbar-nav">
-          <Nav className="ms-auto">
+          <Nav className="ms-auto bar">
             <Link to="/">Home</Link>
             <Link to="/aboutus">About us</Link>
             <Link to="/featurespg">Features</Link>

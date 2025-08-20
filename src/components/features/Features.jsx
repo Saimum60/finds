@@ -18,12 +18,14 @@ const Features = () => {
                 <h2>Design that solves problems, one product at a time</h2>
             </div>
             <Row>
-               <Featuresreuse img={Icon1} text="Uses Client First"/>
+               
+                <Featuresreuse img={Icon1} text="Uses Client First"/>
                <Featuresreuse img={Icon2} text="Two Free Revision Round"/>
                <Featuresreuse img={Icon3} text="Template Customization"/>
                <Featuresreuse img={Icon4} text="24/7 Support"/>
                <Featuresreuse img={Icon5} text="Quick Delivery"/>
                <Featuresreuse img={Icon6} text="Hands-on approach"/>
+               
             </Row>
         </Container>
     </section>

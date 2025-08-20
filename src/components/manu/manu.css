@@ -1,8 +1,9 @@
-.nv{
+.nv {
     background: #1C1E53;
     padding: 16px;
 }
-.nv a{
+
+.nv a {
     padding: 15px;
     color: #BBBBCB;
     font-size: 16px;
@@ -11,13 +12,16 @@
     font-family: "Poppins", sans-serif;
     transition: .5s;
 }
-.nv a:hover{
-    color: #ffff ;
-     
+
+.nv a:hover {
+    color: #ffff;
+
 }
-.adf{
+
+.adf {
     padding: 16px 0px;
 }
+
 .buton {
     background: transparent;
     padding: 16px 48px;
@@ -29,9 +33,253 @@
     font-family: "Poppins", sans-serif;
     transition: .5s;
 }
+
 .buton:hover {
     background: #FCD980;
     color: black;
     border: 1px solid #FCD980;
-;
+
+}
+
+@media only screen and (max-width:991px) {
+     .navbar-toggler{
+        border: none !important;
+        background: #ffff !important;
+        
+    }
+    
+
+    .bar a{
+        text-align: center;
+        padding: 8px !important;
+        
+    }
+
+    .adf  {
+        text-align: center;
+        
+
+    }
+    .buton{
+        padding:8px 20px ;
+        font-size: 12px;
+
+    }
+
+    .banner {
+        padding: 50px 0px 0px 0px;
+    }
+
+    .banner .bg-ban h1 {
+        font-size: 40px;
+        max-width: 100%;
+    }
+
+    .banner .bg-ban p {
+        font-size: 14px;
+        max-width: 100%;
+    }
+
+    .banner img {
+        max-width: 100%;
+        padding-top: 20px;
+    }
+
+    .banner .bg-ban button {
+        font-size: 12px;
+        font-weight: 500;
+        padding: 8px 25px;
+
+    }
+
+    .banner .bg-ban a {
+        font-size: 14px;
+        padding-left: 20px;
+
+    }
+    .work{
+    padding: 0px;
+   
+}
+
+.text h2{
+    padding-top: 50px;
+    font-size: 32px;
+    padding-left: 30%;
+   
+}
+.text p{
+    font-size: 12px;
+    padding: 4px 0px;
+    max-width: 100%;
+    padding-left: 30%;
+    
+    
+}
+.text a{
+    font-size: 12px;
+    padding-left: 30%;
+
+}
+
+.ips img{
+    max-width: 20%;
+}
+.bg{
+    font-size: 16px;
+    padding: 0px 0px !important;
+}
+.mg{
+    font-size: 12px;
+    max-width: 100%;
+    
+}
+.proj{
+    padding: 0px;
+
+}
+.bg-text{
+    padding-top: 50px;
+
+}
+.bg-text a{
+    font-size: 12px !important;
+    max-width: 100%;
+}
+.bg-text h2{
+    font-size: 22px !important;
+    font-weight: 500;
+    
+}
+.img1 img{
+    max-width: 100%;
+}
+.wa{
+    display: flex;
+    padding-top: 20px;
+}
+.img2 img{
+     max-width: 100%;
+}
+.fs{
+    padding: 0px !important;
+}
+.fs img{
+     max-width: 100%;
+    
+}
+.bg-feat{
+    padding: 0px;
+}
+.fea h6{
+    font-size: 12px;
+    padding: 50px 0px 0px;
+}
+.fea h2{
+   padding: 0px;
+    font-size: 28px;
+    max-width: 100%;
+    line-height: 30px;
+
+}
+.icon{
+    max-width: 100%;
+    padding: 0 !important;
+    
+    
+}
+.icon .kl{
+    max-width: 100%;
+     padding: 0 !important;
+    
+}
+.icon .kk{
+    font-size: 16px;
+     padding: 0 !important;
+
+    
+}
+.icon .kj{
+    font-size: 12px;
+     padding: 0 !important;
+     width: 50%;
+     
+     
+}
+.to {
+    padding: 0px;
+}
+.ew img{
+    max-width: 100%;
+}
+.we img{
+    max-width: 100%;
+}
+.about {
+    padding: 0px 0px 50px 0px;
+   
+}
+.about .hg h3 {
+    max-width: 100%;
+    font-size: 26px;
+    padding-top: 50px;
+    text-align: center;
+}
+.about .hg p {
+    max-width: 100%;
+    font-size: 14px;
+    text-align: center;
+   
+}
+.about .mn h5 {
+    max-width: 100%;
+    font-size: 22px;
+    
+}
+.faq{
+    padding: 50px 0px;
+}
+.faq .hy h3{
+    max-width: 100%;
+     font-size: 22px;
+     text-align: center;
+    
+}
+.faq .hy a{
+    text-align: center !important;
+    padding-bottom: 30px !important;
+     font-size: 14px;
+    
+}
+.acc .bv{
+    font-size: 16px;
+    
+    
+}
+.acc .ml{
+    
+    font-size: 16px;
+   
+
+}
+.acc .re{
+    font-size: 12px;
+   
+}
+.blog{
+    padding: 50px 0px 50px ;
+}
+.os{
+    max-width: 100%;
+    font-size: 28px;
+    text-align: center;
+    
+}
+.xc h6{
+    
+    font-size: 16px;
+}
+.xc img{
+    max-width: 100%;
+}
 }

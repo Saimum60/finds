@@ -1,21 +1,22 @@
 import React from 'react'
 import "./kss.css"
 import { Container } from 'react-bootstrap'
+import { Link } from 'react-router-dom'
 
 const Kss = () => {
     return (
         <section className='jq'>
             <Container>
-                <div className='pt'>
+                <div className='pto'>
                     <h4>Copyright 2022, Finsweet.com</h4>
-                    <ul className='ms-auto'>
-                        <li><a href="#"></a>Home</li>
-                        <li><a href="#"></a>About us</li>
-                        <li><a href="#"></a>Features</li>
-                        <li><a href="#"></a>Pricing</li>
-                        <li><a href="#"></a>FAQ</li>
-                        <li><a href="#"></a>Blog</li>
-                    </ul>
+                    <div className=" ms-auto lis">
+                        <Link to="/">Home</Link>
+                        <Link to="/aboutus">About us</Link>
+                        <Link to="/featurespg">Features</Link>
+                        <Link to="/pricing" >Pricing</Link>
+                        <Link to="/faqus">FAQ</Link>
+                        <Link to="/blogus" >Blog</Link>
+                    </div>
                 </div>
 
             </Container>
