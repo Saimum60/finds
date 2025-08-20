@@ -89,11 +89,11 @@ ul{
     padding-bottom: 59px;
 
 } 
-ul li{
+.ite ul li{
      font-size: 16px;
     font-weight: 400;
-    line-height: 28px;
-    line-height: 10px !important;
+    line-height: 40px;
+    
     font-family: "Poppins", sans-serif;
     display: flex;
     align-items: center;

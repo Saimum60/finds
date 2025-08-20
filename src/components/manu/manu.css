@@ -282,4 +282,51 @@
 .xc img{
     max-width: 100%;
 }
+.ts .jpc p{
+    max-width: 100%;
+    font-size: 12px;
+    
+}
+.ts .ks h2{
+    font-size: 22px;
+    
+}
+.ts .ks p{
+    max-width: 100%;
+    font-size: 12px;
+    padding: 5px 0px 15px;
+}
+
+.ts{
+   
+    padding: 50px 0px 100px;
+}
+.ts .qs{
+    max-width: 100%;
+    left: 4%;
+    padding: 0;
+}
+.ts .qs a{
+    font-size: 12px;
+
+}
+.ts .qs .ass{
+    
+    padding-left: 53px;
+   
+}
+.jq{
+    padding: 32px 0px;
+}
+.pto a{
+   max-width: 100%;
+    font-size: 12px;
+   
+    padding: 5px;
+}
+.pto h4{
+    
+    font-size: 12px;
+    
+}
 }
